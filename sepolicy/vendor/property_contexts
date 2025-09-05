@@ -1,0 +1,13 @@
+persist.vendor.camera.	u:object_r:sec_camera_prop:s0
+vendor.bluetooth_fw_ver	u:object_r:vendor_bluetooth_prop:s0
+vendor.sys.qseecomd.	u:object_r:qseecom_prop:s0
+vendor.wlan.			u:object_r:vendor_wifi_prop:s0
+ro.camera.				u:object_r:camera_prop:s0
+persist.camera.			u:object_r:camera_prop:s0
+persist.ril.esim.slotswitch      u:object_r:esim_slotswitch_prop:s0
+persist.ril.interfaceconf.failed u:object_r:rild_interfaceconf_prop:s0
+persist.sys.omc_etcpath          u:object_r:omc_prop:s0
+ro.ril.support_cdma              u:object_r:support_cdma_prop:s0
+ro.ril.svdo                      u:object_r:rild_prop:s0
+ro.ril.svltex1                   u:object_r:rild_prop:s0
+ro.simbased.changetype           u:object_r:simbased_prop:s0
